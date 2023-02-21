@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e33e73b-24a8-468e-acc2-13f53b735f0b" name="Changes" comment="Created class ConfigBean.java" />
+    <list default="true" id="4e33e73b-24a8-468e-acc2-13f53b735f0b" name="Changes" comment="Created bean for employee class and set value of attributes">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/bej/beans/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/beans/ConfigBean.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677008174280</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Created bean for employee class and set value of attributes">
+      <created>1677008432882</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677008432882</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +190,8 @@
     <MESSAGE value="Created equals method and has code for the fields of the class department" />
     <MESSAGE value="Created toString method for the fields of the class department" />
     <MESSAGE value="Created class ConfigBean.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created class ConfigBean.java" />
+    <MESSAGE value="Created bean for employee class and set value of attributes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created bean for employee class and set value of attributes" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
