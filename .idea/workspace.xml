@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e33e73b-24a8-468e-acc2-13f53b735f0b" name="Changes" comment="Created dependencies for spring framework">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/Employee.java" afterDir="false" />
+    <list default="true" id="4e33e73b-24a8-468e-acc2-13f53b735f0b" name="Changes" comment="Created equals and hashCode  for the fields for the class Department">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/Department.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,35 @@
       <option name="project" value="LOCAL" />
       <updated>1676981431406</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created fields for the class Department">
+      <created>1676981830935</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676981830935</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created constructor for the fields for the class Department">
+      <created>1676981918915</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676981918915</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created getter and setter for the fields for the class Department">
+      <created>1676981950116</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676981950116</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created equals and hashCode  for the fields for the class Department">
+      <created>1676982014704</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676982014704</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,7 +115,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Created dependencies for spring framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created dependencies for spring framework" />
+    <MESSAGE value="Created fields for the class Department" />
+    <MESSAGE value="Created constructor for the fields for the class Department" />
+    <MESSAGE value="Created getter and setter for the fields for the class Department" />
+    <MESSAGE value="Created equals and hashCode  for the fields for the class Department" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created equals and hashCode  for the fields for the class Department" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
