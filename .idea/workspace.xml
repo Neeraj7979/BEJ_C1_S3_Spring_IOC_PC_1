@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e33e73b-24a8-468e-acc2-13f53b735f0b" name="Changes" comment="Refactored the class Department">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/Employee.java" afterDir="false" />
-    </list>
+    <list default="true" id="4e33e73b-24a8-468e-acc2-13f53b735f0b" name="Changes" comment="Created class ConfigBean.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -120,7 +117,42 @@
       <option name="project" value="LOCAL" />
       <updated>1676982308051</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Created Fields for the class department">
+      <created>1677007946038</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677007946038</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Created getter and setter for the fields of the class department">
+      <created>1677008042736</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677008042736</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Created equals method and has code for the fields of the class department">
+      <created>1677008075004</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677008075004</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Created toString method for the fields of the class department">
+      <created>1677008105681</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677008105681</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Created class ConfigBean.java">
+      <created>1677008174280</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677008174280</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,7 +175,13 @@
     <MESSAGE value="Created equals and hashCode  for the fields for the class Department" />
     <MESSAGE value="Override toString Method for the fields for the class Department" />
     <MESSAGE value="Refactored the class Department" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored the class Department" />
+    <MESSAGE value="Created Fields for the class department" />
+    <MESSAGE value="Created constructors for the fields of the class department" />
+    <MESSAGE value="Created getter and setter for the fields of the class department" />
+    <MESSAGE value="Created equals method and has code for the fields of the class department" />
+    <MESSAGE value="Created toString method for the fields of the class department" />
+    <MESSAGE value="Created class ConfigBean.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created class ConfigBean.java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
