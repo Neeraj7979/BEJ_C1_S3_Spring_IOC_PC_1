@@ -43,5 +43,11 @@ public class Department {
         return Objects.hash(departmentId, departmentName);
     }
 
-
+    @Override
+    public String toString() {
+        return "Department{" +
+                "departmentId=" + departmentId +
+                ", departmentName='" + departmentName + '\'' +
+                '}';
+    }
 }
