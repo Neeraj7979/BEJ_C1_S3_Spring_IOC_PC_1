@@ -13,5 +13,6 @@ public class App {
         ApplicationContext applicationContext = new AnnotationConfigApplicationContext(ConfigBean.class);
         Employee employee1 = applicationContext.getBean(Employee.class);
         System.out.println(employee1);
+        System.out.println(employee1.getEmployeeId());
     }
 }
